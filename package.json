@@ -1,6 +1,6 @@
 {
-  "name": "Exercism Exercises",
-  "description": "A repository of Exercism Exercises and their solutions",
+  "name": "exercism-codesandbox",
+  "description": "A Collection of Ryan's solutions to Exercism exercises",
   "author": "Ryan Ameri",
   "repository": {
     "type": "git",
@@ -20,7 +20,9 @@
     "jest": "^25.5.2"
   },
   "jest": {
-    "modulePathIgnorePatterns": ["package.json"]
+    "modulePathIgnorePatterns": [
+      "package.json"
+    ]
   },
   "scripts": {
     "test": "jest --no-cache ./*",
