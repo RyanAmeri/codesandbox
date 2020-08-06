@@ -1,7 +1,6 @@
 {
-  "name": "exercism-js-acronym",
-  "main": "acronym.js",
-  "description": "",
+  "name": "Exercism Exercises",
+  "description": "A repository of Exercism Exercises and their solutions",
   "author": "Ryan Ameri",
   "repository": {
     "type": "git",
